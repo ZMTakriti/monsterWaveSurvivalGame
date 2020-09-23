@@ -85,10 +85,6 @@ int jumpHeight = 130;
 
 
 
-
-
-
-
 void setup() {
 
   frameRate(60);
